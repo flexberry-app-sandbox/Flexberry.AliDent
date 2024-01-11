@@ -1,0 +1,71 @@
+﻿{
+  "applicationCaption": "Ali dent",
+  "applicationTitle": "Ali dent",
+  "items": [
+    {
+      "link": null,
+      "menuName": "ali-dent",
+      "caption": "AliDent",
+      "title": "AliDent",
+      "children": [
+        {
+          "link": "i-i-s-ali-dent-клиент-l",
+          "menuName": null,
+          "caption": "Клиент",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-ali-dent-материал-l",
+          "menuName": null,
+          "caption": "Материал",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-ali-dent-кабинет-l",
+          "menuName": null,
+          "caption": "Кабинет",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-ali-dent-услуга-l",
+          "menuName": null,
+          "caption": "Услуга",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-ali-dent-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-ali-dent-производитель-l",
+          "menuName": null,
+          "caption": "Производитель",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-ali-dent-запись-l",
+          "menuName": null,
+          "caption": "Запись",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-ali-dent-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

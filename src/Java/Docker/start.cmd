@@ -1,0 +1,1 @@
+docker-compose -p alident-java up -d

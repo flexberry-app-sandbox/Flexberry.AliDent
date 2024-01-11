@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-ali-dent-материал-e",
+  "editForm": "i-i-s-ali-dent-материал-e",
+  "external": false,
+  "caption": "Материал",
+  "name": "IISAliDentМатериалL",
+  "className": "МатериалL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-материал",
+      "modelProjection": "МатериалL"
+    }
+  ]
+}

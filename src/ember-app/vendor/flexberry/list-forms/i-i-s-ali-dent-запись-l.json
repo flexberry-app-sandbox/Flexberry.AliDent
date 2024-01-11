@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-ali-dent-запись-e",
+  "editForm": "i-i-s-ali-dent-запись-e",
+  "external": false,
+  "caption": "Запись",
+  "name": "IISAliDentЗаписьL",
+  "className": "ЗаписьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-запись",
+      "modelProjection": "ЗаписьL"
+    }
+  ]
+}

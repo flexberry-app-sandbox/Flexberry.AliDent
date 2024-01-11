@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "материал",
+      "displayAttributeName": "наименование",
+      "required": true,
+      "relationName": "СоставУслуги.Материал",
+      "projection": "МатериалL",
+      "detailModelName": "i-i-s-ali-dent-состав-услуги"
+    }
+  ],
+  "external": false,
+  "caption": "Услуга",
+  "name": "IISAliDentУслугаE",
+  "className": "УслугаE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-услуга",
+      "modelProjection": "УслугаE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-ali-dent-должность-e",
+  "editForm": "i-i-s-ali-dent-должность-e",
+  "external": false,
+  "caption": "Должность",
+  "name": "IISAliDentДолжностьL",
+  "className": "ДолжностьL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-должность",
+      "modelProjection": "ДолжностьL"
+    }
+  ]
+}

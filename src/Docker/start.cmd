@@ -1,0 +1,1 @@
+docker-compose -p alident up -d

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-ali-dent-клиент-e",
+  "editForm": "i-i-s-ali-dent-клиент-e",
+  "external": false,
+  "caption": "Клиент",
+  "name": "IISAliDentКлиентL",
+  "className": "КлиентL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-клиент",
+      "modelProjection": "КлиентL"
+    }
+  ]
+}

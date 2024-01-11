@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Кабинет",
+  "name": "IISAliDentКабинетE",
+  "className": "КабинетE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-кабинет",
+      "modelProjection": "КабинетE"
+    }
+  ]
+}

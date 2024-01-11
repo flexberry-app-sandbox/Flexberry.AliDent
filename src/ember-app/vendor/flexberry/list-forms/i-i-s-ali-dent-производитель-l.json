@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-ali-dent-производитель-e",
+  "editForm": "i-i-s-ali-dent-производитель-e",
+  "external": false,
+  "caption": "Производитель",
+  "name": "IISAliDentПроизводительL",
+  "className": "ПроизводительL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-производитель",
+      "modelProjection": "ПроизводительL"
+    }
+  ]
+}

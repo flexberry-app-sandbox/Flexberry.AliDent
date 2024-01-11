@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-ali-dent-кабинет-e",
+  "editForm": "i-i-s-ali-dent-кабинет-e",
+  "external": false,
+  "caption": "Кабинет",
+  "name": "IISAliDentКабинетL",
+  "className": "КабинетL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-кабинет",
+      "modelProjection": "КабинетL"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISAliDentКабинет",
+  "modelName": "i-i-s-ali-dent-кабинет",
+  "className": "Кабинет",
+  "nameSpace": "IIS.AliDent",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "номерКабинета",
+      "type": "number",
+      "flexberryType": "int",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "КабинетE",
+      "modelName": "i-i-s-ali-dent-кабинет",
+      "attrs": [
+        {
+          "name": "номерКабинета",
+          "caption": "Номер кабинета",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "КабинетL",
+      "modelName": "i-i-s-ali-dent-кабинет",
+      "attrs": [
+        {
+          "name": "номерКабинета",
+          "caption": "Номер кабинета",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

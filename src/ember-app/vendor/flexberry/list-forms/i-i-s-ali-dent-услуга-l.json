@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-ali-dent-услуга-e",
+  "editForm": "i-i-s-ali-dent-услуга-e",
+  "external": false,
+  "caption": "Услуга",
+  "name": "IISAliDentУслугаL",
+  "className": "УслугаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-ali-dent-услуга",
+      "modelProjection": "УслугаL"
+    }
+  ]
+}
